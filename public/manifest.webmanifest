@@ -1,0 +1,17 @@
+{
+  "name": "Medical Diary",
+  "short_name": "Med Diary",
+  "description": "Personal Health Tracker & Medical Diary",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff9fa",
+  "theme_color": "#bd7187",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
